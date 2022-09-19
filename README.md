@@ -10,4 +10,4 @@ Navigation links.
 Placeholders for future projects that I can add on at a later date.
 Styling for different sized screens (tablets and mobile phones).
 
-My website is live at this URL (https://samiirose52.github.io/samiirose52.github.io-portfolio/)
+My website is live at this URL (https://samiirose52.github.io/Challenge-2-CSS/)
