@@ -13,3 +13,5 @@ Styling for different sized screens (tablets and mobile phones).
 My website is live at this URL (https://samiirose52.github.io/Challenge-2-CSS/)
 
 C:\Users\dcber\Downloads\Challenge-2-CSS\assets\images\Screenshot (42).png
+
+![This is an image](assets\images\Screenshot (42).png)
